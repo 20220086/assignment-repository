@@ -1,6 +1,11 @@
 import random
 import header
 
+# 베이글 게임
+# 자리와 숫자 모두 일치하면 페르미
+# 숫자만 일치하면 피코
+# 일치하지 않으면 베이글
+
 MAX_GUESSES = 10
 NUM_DIGITS  = 3
 
